@@ -1,3 +1,9 @@
 # Hand-Digit-Recgnition
 A hand written digit recognition system trained on MNIST dataset.
-Accuracy: 95.59%
+An Accuracy of 95.59% was obtained using LeNet acrchitecture
+
+## **Dependecies**
+[Keras](https://github.com/fchollet/keras)
+
+[matplotlib](https://matplotlib.org/users/installing.html)
+ 
