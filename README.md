@@ -1,4 +1,4 @@
-# Hand-Digit-Recgnition
+# Hand-Digit-Recognition
 A hand written digit recognition system trained on MNIST dataset.
 
 An Accuracy of 95.59% was obtained using [LeNet architecture](http://yann.lecun.com/exdb/lenet/).
